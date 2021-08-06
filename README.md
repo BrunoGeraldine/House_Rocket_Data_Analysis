@@ -1,4 +1,4 @@
-# Python_Zero_To_DS_Course
+# Python_Zero_To_DS
 
    ![data](https://user-images.githubusercontent.com/87772120/128518463-2740734f-39de-4200-9b19-526be2dc1336.png)
 
@@ -43,7 +43,7 @@ This study project aims to develop tools and panels to answer business questions
    - Create and analyze some business hypotheses;
    - Flag the recommendation to buy or not the properties in the dataset;
    - Flag the sales recommendation with an increase of 10% or 30%;
-   - Update the online dashboard with these improvements. See more at: future link.
+   - Update the online dashboard with these improvements. See more at: https://houserocket-analytics-data.herokuapp.com/
 
 
 References:
