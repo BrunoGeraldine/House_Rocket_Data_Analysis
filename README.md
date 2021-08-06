@@ -1,6 +1,6 @@
 # Python_Zero_To_DS_Course
 
-          ![image](https://user-images.githubusercontent.com/87772120/128514913-d9d611ed-6a9f-44a6-a542-b5def53157bf.png)
+   ![image](https://user-images.githubusercontent.com/87772120/128514913-d9d611ed-6a9f-44a6-a542-b5def53157bf.png)
 
 
 This project contains American real estate analytical insights based on datasets made available by the House Rocket Company in King County (USA)
