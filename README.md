@@ -48,8 +48,8 @@ This study project aims to develop tools and panels to answer business questions
 
 References:
 
-Python from Zero to DS lessons on "Comunidade DS - course"
-Blog Seja um Data Scientist
-Dataset House Sales in King County (USA) from Kaggle
-Variables meaning on Kaggle discussion
-Icons made by https://www.flaticon.com/authors/monkik from https://www.flaticon.com/free-icon/data_993688?term=data%20analysis&related_id=993688
+- Python from Zero to DS lessons on "Comunidade DS - course"
+- Blog Seja um Data Scientist
+- Dataset House Sales in King County (USA) from Kaggle
+- Variables meaning on Kaggle discussion
+- Icons made by https://www.flaticon.com/authors/monkik from https://www.flaticon.com/free-icon/data_993688?term=data%20analysis&related_id=993688
