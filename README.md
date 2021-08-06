@@ -1,4 +1,8 @@
-# Python_Zero_DS_DataAnalysis
+# Python_Zero_To_DS_Course
+
+![image](https://user-images.githubusercontent.com/87772120/128514913-d9d611ed-6a9f-44a6-a542-b5def53157bf.png)
+
+
 This project contains American real estate analytical insights based on datasets made available by the House Rocket Company in King County (USA)
 
 Case study:
@@ -20,4 +24,3 @@ This study project aims to develop tools and panels to answer business questions
   Available data are only from May 2014 to May 2015.
   The variables are as follows:
   
-  ![image](https://user-images.githubusercontent.com/87772120/128514004-73268d00-dde8-4cdf-9786-55bf9d2b3bcf.png)
