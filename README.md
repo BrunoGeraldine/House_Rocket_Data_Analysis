@@ -1,6 +1,7 @@
 # Python_Zero_To_DS_Course
 
-   ![image](https://user-images.githubusercontent.com/87772120/128514913-d9d611ed-6a9f-44a6-a542-b5def53157bf.png)
+   ![data](https://user-images.githubusercontent.com/87772120/128518463-2740734f-39de-4200-9b19-526be2dc1336.png)
+
 
 
 This project contains American real estate analytical insights based on datasets made available by the House Rocket Company in King County (USA)
@@ -24,22 +25,31 @@ This study project aims to develop tools and panels to answer business questions
   Available data are only from May 2014 to May 2015.
   The variables are as follows:
   
-![image](https://user-images.githubusercontent.com/87772120/128516174-bd1c1003-c12b-4be9-bcdf-67ef1132acf3.png)
+   ![image](https://user-images.githubusercontent.com/87772120/128516689-1dfceec8-ae0f-4fb9-9904-2ece3df004e8.png)
+
 
 3. Solution Strategy
-   1. Understanding the business model;
-   2. Understanding the business problem;
-   3. Collecting the data;
-   4. Data Preparation;
-   5. Exploratory Data Analysis;
-   6. Dashboard deploy on Heroku.
+   - Understanding the business model;
+   - Understanding the business problem;
+   - Collecting the data;
+   - Data Preparation;
+   - Exploratory Data Analysis;
+   - Dashboard deploy on Heroku.
 
 4. Conclusion
    The objective of this study case was to create a online dashboard to House Rocket's CEO. Deploying the dashboard on Heroku platforms provides the CEO acess from anywhere facilitating both pre-arrange or costumized data visualization.
    
-   
-   
-   
-   
-   
-   
+5. Next Steps
+   - Create and analyze some business hypotheses;
+   - Flag the recommendation to buy or not the properties in the dataset;
+   - Flag the sales recommendation with an increase of 10% or 30%;
+   - Update the online dashboard with these improvements. See more at: future link.
+
+
+References:
+
+Python from Zero to DS lessons on "Comunidade DS - course"
+Blog Seja um Data Scientist
+Dataset House Sales in King County (USA) from Kaggle
+Variables meaning on Kaggle discussion
+Icons made by https://www.flaticon.com/authors/monkik from https://www.flaticon.com/free-icon/data_993688?term=data%20analysis&related_id=993688
