@@ -25,7 +25,8 @@ This study project aims to develop tools and panels to answer business questions
   Available data are only from May 2014 to May 2015.
   The variables are as follows:
   
-   (in constrution!)
+   (in constrution!)![Captura de tela de 2021-08-16 07-36-10](https://user-images.githubusercontent.com/87772120/129906319-fe751c81-764a-43e5-98c8-3d072012d76f.png)
+
 
 3. Solution Strategy
    - Understanding the business model;
