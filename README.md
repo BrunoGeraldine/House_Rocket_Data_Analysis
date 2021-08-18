@@ -26,6 +26,20 @@ This study project aims to develop tools and panels to answer business questions
   The variables are as follows:
   
    (in constrution!)
+   
+| Variable	| Definition |
+| ----------------: | ----------------: |
+|id	| Unique ID for each property sold |
+|date	| Date of the property sale |
+|price	| Price of each property sold |
+|bedrooms	| Number of bedrooms |
+|bathrooms	| Number of bathrooms, where .5 accounts for a room with a toilet but no shower, and .75 or ¾ bath is a bathroom that contains one sink, one toilet and either a shower or a bath.|
+| sqft_living	| Square footage of the apartments interior living space|
+| sqft_lot	| Square footage of the land space|
+| floors	| Number of floors |
+| waterfront	| A dummy variable for whether the apartment was overlooking the waterfront or not|
+| view	| An index from 0 to 4 of how good the view of the property was|
+| condition	| An index from 1 to 5 on the condition of the apartment| 
 
 
 3. Solution Strategy
