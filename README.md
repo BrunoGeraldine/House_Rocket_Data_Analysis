@@ -27,8 +27,8 @@ This study project aims to develop tools and panels to answer business questions
   
    (in constrution!)
    
-| Variable	| Definition |
-| ----------------: | ----------------: |
+|: Variable	:|: Definition :|
+| :---------------- | |---------------- |
 |id	| Unique ID for each property sold |
 |date	| Date of the property sale |
 |price	| Price of each property sold |
