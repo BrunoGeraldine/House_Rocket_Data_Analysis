@@ -1,7 +1,7 @@
 # House Rocket - Data Analysis
 
    <p align="center">
-      <img width="600" height="400" src="https://user-images.githubusercontent.com/87772120/141787535-a2d73bde-e87f-4cc5-9027-be7c5c2dfc02.png">
+      <img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/141787535-a2d73bde-e87f-4cc5-9027-be7c5c2dfc02.png">
    </p>   
 
 
