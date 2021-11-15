@@ -76,6 +76,6 @@ Data for this project can be found at: [Kaggle](https://www.kaggle.com/harlfoxem
 
 References:
 
-- Python from Zero to DS lessons on "Comunidade DS - course"[Data Scientist](https://www.comunidadedatascience.com/)
+- Python from Zero to DS lessons on ["Comunidade DS - course"](https://www.comunidadedatascience.com/)
 - Dataset House Sales in King County (USA) from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885)
 - Icons made by from https://www.cfrinc.net/cfrblog/data-analysis-techniques-for-market-research
