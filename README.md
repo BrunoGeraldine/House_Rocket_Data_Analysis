@@ -10,8 +10,10 @@
 
 This project contains American real estate analytical insights based on datasets made available by the House Rocket Company in King County (USA)
 
-Case study:
-This study project aims to develop tools and panels to answer business questions created by the company's CEO and allow him or other members of the company to have access to different roles for the tool as they select in the filters.
+This is a fictional project. The company, context and business questions are not real. This portfolio is following the blog recommendations [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/)
+
+
+Data for this project can be found at: [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885)
 
 1. Business problem
   House Rocket is currently in the real estate market buying and reselling properties through a digital platform. The data scientist is responsible for developing an online dashboard that can be accessed by the CEO from a cell phone or computer with information on properties sold in King County (USA).
@@ -71,11 +73,9 @@ This study project aims to develop tools and panels to answer business questions
    - Update the online dashboard with these improvements. See more at: https://houserocket-analytics-data.herokuapp.com/
 
 
+
 References:
 
-- Python from Zero to DS lessons on "Comunidade DS - course"
-- Blog Seja um [Data Scientist].(https://www.comunidadedatascience.com/)
-- [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/)
-- Dataset House Sales in King County (USA) from Kaggle
-- Variables meaning on Kaggle discussion
+- Python from Zero to DS lessons on "Comunidade DS - course"[Data Scientist](https://www.comunidadedatascience.com/)
+- Dataset House Sales in King County (USA) from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885)
 - Icons made by from https://www.cfrinc.net/cfrblog/data-analysis-techniques-for-market-research
