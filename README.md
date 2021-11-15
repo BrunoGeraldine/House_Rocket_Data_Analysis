@@ -1,6 +1,12 @@
 # House Rocket - Data Analysis
 
-   ![data](https://user-images.githubusercontent.com/87772120/128518463-2740734f-39de-4200-9b19-526be2dc1336.png)
+   <p align="center">
+      <img width="460" height="300" src="https://user-images.githubusercontent.com/87772120/141786723-489f78cd-64d5-4e06-992b-f2d496ca5129.png">
+   </p>   
+
+
+   ![image](https://user-images.githubusercontent.com/87772120/141786723-489f78cd-64d5-4e06-992b-f2d496ca5129.png)
+
 
 
 
