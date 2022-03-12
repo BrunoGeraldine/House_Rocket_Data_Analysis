@@ -24,7 +24,7 @@ Data for this project can be found at: [Kaggle](https://www.kaggle.com/harlfoxem
   - Properties by zip code - information about properties grouped by zip code;
   - Portfolio Density Map - A map view with database distribution;
   - Property price by timeline - property price by year of construction or by sale date and property price distribution;
-  - Distribution of properties by main attributes - distribution of properties by number of bedrooms, bathrooms, floors and whether or not the property has a sea       view;
+  - Distribution of properties by main attributes - distribution of properties by number of bedrooms, bathrooms, floors and whether or not the property has a sea       view; 
   - Custom Data and Map View - A section to choose attributes and see the dataframe and map distribution of these properties.
 
 2. Business Assumptions
